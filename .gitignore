@@ -1,6 +1,9 @@
 .dart_tool/
 build/
 
+.flutter-plugins
+.flutter-plugins-dependencies
+
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
